@@ -1,0 +1,41 @@
+.card-body{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    padding: 30px;
+    background-color: rgb(183, 200, 215);
+}
+
+.card-info{
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+h3{
+    text-align: center;
+    font-size: 30px;
+    color: #0a486e;
+}
+
+input {
+    padding: 6px;
+    border: none;
+}
+
+button{
+    background-color: rgb(84, 203, 80);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 6px;
+    margin: 5px;
+}
+
+.weather-info{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
